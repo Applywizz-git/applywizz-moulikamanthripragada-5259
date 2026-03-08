@@ -37,7 +37,7 @@ const About = () => {
   };
 
   const stats = [
-    { label: "Years Experience", value: 3, suffix: "+" },
+    { label: "Years Experience", value: 4, suffix: "" },
     { label: "Projects Completed", value: 3, suffix: "+" },
     { label: "Reliable Deployments", value: 100, suffix: "%" },
   ];
@@ -76,7 +76,7 @@ const About = () => {
             className="text-lg text-muted-foreground leading-relaxed space-y-4"
           >
             <p>
-              I'm a DevOps Engineer with 3+ years of experience designing and automating cloud infrastructure on Amazon Web Services. I specialize in strengthening production environments, automating build pipelines, and leveraging GitOps patterns to accelerate system delivery.
+              I'm a DevOps Engineer with 4 years of experience designing and automating cloud infrastructure on Amazon Web Services. I specialize in strengthening production environments, automating build pipelines, and leveraging GitOps patterns to accelerate system delivery.
             </p>
             <p>
               My technical foundation includes Terraform-based Infrastructure as Code, robust CI/CD engineering using Jenkins and Git, and container orchestration with Docker and Amazon EKS. I have hands-on experience deploying scalable applications leveraging EC2, VPC, RDS, Auto Scaling, and Application Load Balancers. I am also skilled in improving system reliability through blue-green deployments, integrating DevSecOps tools like SonarQube and Trivy, and establishing end-to-end observability using Prometheus, Grafana, ELK Stack, and AWS CloudWatch.
