@@ -29,7 +29,7 @@ const Hero = () => {
               Hello I'm
             </motion.p>
             <motion.h1
-              className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-[#D4AF37] via-[#6E6E6E] to-[#E0E0E0] text-transparent bg-clip-text"
+              className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-[#D4AF37] via-[#6E6E6E] to-[#E0E0E0] text-transparent bg-clip-text py-4 leading-tight"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
