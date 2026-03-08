@@ -70,7 +70,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.5 }}
             >
-              DevOps Engineer with 3+ years of experience designing and automating cloud infrastructure on Amazon Web Services. Strong expertise in Terraform-based Infrastructure as Code, CI/CD pipeline engineering using Jenkins and Git, and container orchestration with Docker and Amazon EKS. Hands-on experience deploying scalable applications leveraging EC2, VPC, RDS, Auto Scaling, and Application Load Balancers.
+              DevOps Engineer with 4 years of experience designing and automating cloud infrastructure on Amazon Web Services. Strong expertise in Terraform-based Infrastructure as Code, CI/CD pipeline engineering using Jenkins and Git, and container orchestration with Docker and Amazon EKS. Hands-on experience deploying scalable applications leveraging EC2, VPC, RDS, Auto Scaling, and Application Load Balancers.
             </motion.p>
 
             <motion.div
@@ -106,7 +106,7 @@ const Hero = () => {
                 className="relative overflow-hidden group"
                 asChild
               >
-                <a href="/resume_moulika_manthripragada_devops.pdf" download>
+                <a href="/RESUME_MOULIKA_MANTHRIPRAGADA_DEVOPS.pdf" download>
                   {/* Shining line */}
                   <span
                     className="absolute inset-0 w-1/3 h-full bg-black/80 
